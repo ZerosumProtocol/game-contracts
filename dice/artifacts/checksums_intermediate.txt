@@ -1,0 +1,1 @@
+0b90a072ed22ca702bdfe8013d2ed86b53be891b4a4d367255d45e0b4da55b09  dice/target/wasm32-unknown-unknown/release/dice.wasm
